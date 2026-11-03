@@ -1,1 +1,1 @@
-# MongoLite
+# mongodb-lite
